@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "@extractus/feed-extractor": "latest",
-    "hono": "^3.10.2"
+    "hono": "^4.5.10"
   }
 }
