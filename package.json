@@ -1,11 +1,11 @@
 {
-  "version": "7.1.3",
+  "version": "7.1.4",
   "name": "@nexttylabs/feed-extractor",
   "description": "To read and normalize RSS/ATOM/JSON feed data",
   "homepage": "https://extractor-demos.pages.dev",
   "repository": {
     "type": "git",
-    "url": "git@github.com:nexttylabs/feed-extractor.git"
+    "url": "https://github.com/nexttylabs/feed-extractor.git"
   },
   "author": "@extractus",
   "main": "./src/main.js",
