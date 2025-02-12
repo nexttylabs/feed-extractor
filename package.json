@@ -45,7 +45,7 @@
     "html-entities": "^2.5.2"
   },
   "devDependencies": {
-    "esbuild": "^0.23.1",
+    "esbuild": "^0.25.0",
     "eslint": "^9.2.0",
     "globals": "^15.1.0",
     "https-proxy-agent": "^7.0.4",
